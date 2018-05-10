@@ -1,0 +1,128 @@
+body {
+	margin: 10px;
+	padding: 0px;
+	text-align: center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:1em;
+}
+#container {
+	padding: 0px;
+	width: 900px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	background-color: #FFF;
+}
+#top {
+	margin: 0px;
+	padding: 0px;
+	height: 140px;
+	width: 100%;
+	border:1px solid #333333;
+}
+#content {
+	padding: 0px;
+	width: 100%;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#leftBar {
+	margin: 0px;
+	float: left;
+	width: 179px;
+	padding-top: 20px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	text-align: left;
+	border-left: 1px solid #0066CC;
+}
+#photo {
+	padding: 0px;
+	height: 180px;
+	width: 180px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	background-color: #E6E5E7;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #676867;
+	border-bottom-color: #676867;
+	text-align: center;
+}
+#rightBar {
+	float: left;
+	width: 700px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	text-align: left;
+}
+
+#footer {
+	padding: 0px;
+	height: 200px;
+	width: 900px;
+	clear: both;
+	float: left;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-align: left;
+	background-color: #E6E5E7;
+}
+#login {
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	width: 800px;
+}
+#logbox {
+	padding: 0px;
+	width: 500px;
+	margin-top: 60px;
+	margin-right: auto;
+	margin-bottom: 120px;
+	margin-left: auto;
+}
+#adminbody {
+	padding: 0px;
+	width: 740px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#photo2 {
+	padding: 0px;
+	height: 180px;
+	width: 180px;
+	background-color: #E6E5E7;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #676867;
+	border-bottom-color: #676867;
+	text-align: center;
+	margin: 0px;
+}
+
+#errorCls {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FF0000;
+}
